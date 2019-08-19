@@ -5,6 +5,9 @@
   "repository": "https://github.com/phellipe/bootcamp-gostack-desafio-01.git",
   "author": "João Phellipe de Freitas Pinto <phellipe@ufersa.edu.br>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
